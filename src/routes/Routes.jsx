@@ -13,7 +13,7 @@ const baseUrl ="http://localhost:8080";
 
 const App=()=> {
 
-  const[saldo,setSaldo]=useState({});
+  const[saldo,setSaldo]=useState([]);
 
 
 
